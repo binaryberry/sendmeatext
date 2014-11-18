@@ -5,7 +5,7 @@ Send Me a Text
 
 ## What is it?
 
-A Wix App created during [Wix's London Hackathon], that allows website users to send a text message to the website owner via the website.
+A Wix App created during [Wix's London Hackathon], that allows website users to send a text message to the website owner via the website. Pre-Wix version can be found [here].
 
 ## How was it done?
 
@@ -37,3 +37,4 @@ For 4 to 5 hours I pair-programmed with [Nikesh Ashar] and then spent most of th
 [Wix's Javascript SDK]: http://dev.wix.com/docs/display/DRAF/JavaScript+SDK
 [Nicolas Carey]: https://github.com/nicolascarey
 [Nikesh Ashar]: https://github.com/nikeshashar
+[here]:https://send-me-a-text.herokuapp.com/#/dialog
