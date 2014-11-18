@@ -26,11 +26,10 @@ Created over a day and a half (including all night coding) with a team of 5 peop
 
 ## My contribution
 
-For 4 to 5 hours I pair-programmed with [Nikesh Ashar] and then spent most of the night coding by myself. We built the backend, including database models, Sinatra server, and integration with Twilio API. We then used Heroku to put the app online. 
-
+For 4 to 5 hours I pair-programmed with [Nikesh Ashar] and then spent most of the night coding by myself. I built the backend, including database models, Sinatra server, and integration with Twilio API. We then used Heroku to put the app online. 
 
 ## What did I learn?
-- Working as a team with people from very different backgrounds, and who I didn't know before
+- Working as a team with people from very different backgrounds, that I didn't know before
 - Importance of sticking to the bare minimum features for a Hackathon product
 - Coding all night can be fun!
 
